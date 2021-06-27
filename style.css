@@ -1,0 +1,28 @@
+body{
+background-color: orange;
+}
+    margin-bottom: 30px;
+    color:magenta;
+    text-decoration: underline;
+}
+input{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width:200px;
+    background-color: white;
+    font-weight: italic;
+    border: solid;
+}
+hr{
+    margin-bottom: 15px;
+}
+button{
+    margin-bottom: 20px;
+    font-weight: italic;
+    background-color: aqua;
+}
+h1{
+    margin-bottom: 30px;
+    color:red;
+    text-decoration: underline;
+}
